@@ -1,2 +1,3 @@
-# welcome to myprj
+#git-github 
+welcome to myprj
 samplecode
